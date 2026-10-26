@@ -18,7 +18,7 @@
 ## 🚀 Projects
 
 - **[B:Scene](https://github.com/B-Scene/bscene-server)** · 인디 밴드와 팬을 연결하는 음악 플랫폼 · Backend
-- **[GA:ON Analytics](https://github.com/GA-ON-Analytics/gaon-dev)** · 도시 열섬 분석·정책 시뮬레이션 서비스 · Team Lead / Data·ML
+- **[GA:ON Analytics](https://github.com/GA-ON-Analytics/gaon-dev)** · 도시 열섬 분석·정책 시뮬레이션 서비스 · Team Lead / Full-stack / Data·ML
 - **Workflow · 산학협력 캡스톤** · BPMN·DMN 기반 사내 워크플로우 플랫폼 · 실행 엔진 / Runtime
 - **ALBAT** · Wi-Fi CSI 기반 비접촉 낙상 감지 PoC · Data·ML / Integration
 
